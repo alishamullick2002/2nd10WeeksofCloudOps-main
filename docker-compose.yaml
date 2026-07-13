@@ -21,7 +21,7 @@ services:
     ports:
       - "84:80"
     environment:
-      DB_HOST: mysql
+      DB_HOST: alisha-db.cl6oiaqmqk3z.us-west-2.rds.amazonaws.com
       DB_USER: admin
       DB_PASSWORD: alisha123
       PORT: 3306
