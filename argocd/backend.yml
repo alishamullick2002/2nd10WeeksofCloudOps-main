@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/CloudTechDevOps/2nd10WeeksofCloudOps-main.git
+    repoURL: https://github.com/alishamullick2002/2nd10WeeksofCloudOps-main.git
     targetRevision: main
     path: kubernetes-files
 
